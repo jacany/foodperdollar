@@ -1,0 +1,16 @@
+.header {
+	padding: 4vh 10vw;
+	display: flex;
+	flex: 1;
+}
+
+.name {
+}
+
+.pages {
+	margin-left: 3vw;
+}
+
+.search {
+	margin-left: auto;
+}
